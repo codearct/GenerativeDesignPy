@@ -1,0 +1,7 @@
+{
+    "code-runner.customCommand": "java -jar processing-py.jar $fullFileName",
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": false,
+    "python.formatting.provider": "autopep8",
+    "python.pythonPath": "C:\\Users\\Akif\\AppData\\Local\\Programs\\Python\\Python37\\python.exe"
+}
